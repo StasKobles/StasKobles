@@ -30,7 +30,7 @@
 ### 👨‍💻 &nbsp;Other scills :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Rapberry"  alt="Rapberry" width="40" height="40"/>&nbsp;
-  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594f6abf11bb058da52ecb_bg.png" title="Discord"  alt="Discord" width="40" height="40"/>&nbsp;
+  <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-vector-download-0.png" title="Discord"  alt="Discord" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" title="Telegram"  alt="Telegram" width="40" height="40"/>&nbsp;
 </p>
 
