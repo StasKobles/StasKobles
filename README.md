@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there, I'm <a href="https://github.com/StasKobles/" target="_blank">Stas</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior React developer. Currently in Georgia 🇬🇪, but staying flexy)</h3>
