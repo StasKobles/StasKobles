@@ -1,7 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/StasKobles/" target="_blank">Stas</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior React developer. Currently in Georgia 🇬🇪, but staying flexy)</h3>
-<div>
+
+  ---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://mobx.js.org/assets/mobx.png" title="Mobx" alt="Mobx " width="40" height="40"/>&nbsp;
@@ -17,7 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Rapberry"  alt="Rapberry" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</p>
+
+  ---
 <!--
 **StasKobles/StasKobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
