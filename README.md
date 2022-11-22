@@ -21,9 +21,9 @@
  <p>
   <a href='https://redux.js.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/><a/>&nbsp;
   <a href='https://mobx.js.org' target="_blank" rel="noreferrer"><img src="https://mobx.js.org/assets/mobx.png" title="Mobx" alt="Mobx " width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href='https://www.postgresql.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
   <a href='https://code.visualstudio.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/><a/>&nbsp;
   <a href='https://ubuntu.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/><a/>&nbsp;
   <a href='https://www.gitkraken.com/'  target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/><a/>&nbsp;
