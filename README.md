@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Frameworks
+### 🛠 &nbsp;Languages and Tools
 
 <p>
   <a href='https://www.javascript.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
@@ -14,21 +14,26 @@
   <a href='https://html.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><a/>&nbsp;
   <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/><a/>&nbsp;  
   <a href='https://sass-lang.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/></a>&nbsp;
-<p/>
+</p>
 
-### 👨‍💻 &nbsp;Tools and Environment
+### 👨‍💻 &nbsp;State Managers and Framework
 
  <p>
   <a href='https://redux.js.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/><a/>&nbsp;
   <a href='https://mobx.js.org' target="_blank" rel="noreferrer"><img src="https://mobx.js.org/assets/mobx.png" title="Mobx" alt="Mobx " width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href='https://www.postgresql.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
+  <a href='https://nextjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
+<a href='https://nestjs.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS " width="40" height="40"/><a/>&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href='https://code.visualstudio.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/><a/>&nbsp;
-  <a href='https://ubuntu.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/><a/>&nbsp;
-  <a href='https://www.gitkraken.com/'  target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/><a/>&nbsp;
-</p>
+    </p>
 
+### 💾 &nbsp; Databases and Development platforms
+<p>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/></a>
+  <a href='https://www.postgresql.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
+  <a href="https://dashboard.heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/></a>
+    </p>
+    
+    
 ### 👨‍💻 &nbsp;Other skills
 
 <p>
@@ -37,8 +42,14 @@
    <a href='https://core.telegram.org/' target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" title="Telegram"  alt="Telegram" width="40" height="40"/></a>&nbsp;
 </p>
 
----
+### 🛠️ &nbsp; Workspace
+<p>
+  <a href='https://code.visualstudio.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/><a/>&nbsp;
+  <a href='https://ubuntu.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/><a/>&nbsp;
+  <a href='https://www.gitkraken.com/'  target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/><a/>&nbsp;
+</p>
 
-- 📫 How to reach me: [My Telegram](https://t.me/kobles)
+
+### 📫 How to reach me: [My Telegram](https://t.me/kobles)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staskobles&count_private=false&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="staskobles" /></p>
