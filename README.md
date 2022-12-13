@@ -23,7 +23,7 @@
   <a href='https://mobx.js.org' target="_blank" rel="noreferrer"><img src="https://mobx.js.org/assets/mobx.png" title="Mobx" alt="Mobx " width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
   <a href='https://nextjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
 <a href='https://nestjs.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS " width="40" height="40"/><a/>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title='ExpressJS' alt="express" width="40" height="40"/></a>
     </p>
 
 ### 💾 &nbsp; Databases and Development platforms
