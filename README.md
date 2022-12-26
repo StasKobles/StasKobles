@@ -30,7 +30,7 @@
 <p>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/></a>
   <a href='https://www.postgresql.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
-  <a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /></a>
     </p>
     
     
@@ -52,4 +52,6 @@
 
 ### 📫 How to reach me: [My Telegram](https://t.me/kobles)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staskobles&count_private=false&hide=jupyter%20notebook,python&show_icons=true&locale=en&layout=compact" alt="staskobles" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staskobles&count_private=false&hide=jupyter%20notebook,python&show_icons=true&locale=en&layout=compact" alt="staskobles"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://www.codewars.com/users/Alca-Code' target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Alca-Code/badges/large" title="codewars"  alt="Codewars"/><a/></p>
+
