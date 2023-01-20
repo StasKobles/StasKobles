@@ -51,7 +51,7 @@
 
 
 ### 📫 How to reach me: [My Telegram](https://t.me/kobles)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staskobles&count_private=false&hide=jupyter%20notebook,python&show_icons=true&locale=en&layout=compact" alt="staskobles"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasKobles&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+    <br/>
 <a href='https://www.codewars.com/users/Alca-Code' target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Alca-Code/badges/large" title="codewars"  alt="Codewars"/><a/></p>
 
