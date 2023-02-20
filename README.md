@@ -3,7 +3,7 @@
 <h3 align="center">Junior React developer. Currently in Georgia 🇬🇪, but staying flexy)</h3>
 
 ---
-## 📄 My current <a href='https://drive.google.com/file/d/1Hd657iCgA2dYPIXW4K-aNuxBvRNDZfIi/view?usp=share_link'>CV<a/>&nbsp;
+## 📄 My current <a href='https://drive.google.com/file/d/1Wx-q7VMF9v2hgxW0_PBQEEA-4tylbaBM/view?usp=share_link'>CV<a/>&nbsp;
 ### 🛠 &nbsp;Languages and Tools
 
 <p>
