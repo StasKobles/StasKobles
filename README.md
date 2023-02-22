@@ -4,36 +4,58 @@
 
 ---
 ## 📄 My current <a href='https://drive.google.com/file/d/1Wx-q7VMF9v2hgxW0_PBQEEA-4tylbaBM/view?usp=share_link'>CV<a/>&nbsp;
-### 🛠 &nbsp;Languages and Tools
 
+### 🛠 &nbsp;Languages and Tools
 <p>
-  <a href='https://www.javascript.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href='https://www.typescriptlang.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/><a/>&nbsp;
+  <a href='https://www.javascript.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href='https://reactjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><a/>&nbsp;
   <a href='https://nodejs.org/en/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><a/>&nbsp;
-  <a href='https://html.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><a/>&nbsp;
-  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/><a/>&nbsp;  
-  <a href='https://sass-lang.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/></a>&nbsp;
 </p>
 
-### 👨‍💻 &nbsp;State Managers and Framework
+### 👨‍💻 &nbsp;State Managers
 
  <p>
   <a href='https://redux.js.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/><a/>&nbsp;
   <a href='https://mobx.js.org' target="_blank" rel="noreferrer"><img src="https://mobx.js.org/assets/mobx.png" title="Mobx" alt="Mobx " width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
-  <a href='https://nextjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
-<a href='https://nestjs.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS " width="40" height="40"/><a/>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title='ExpressJS' alt="express" width="40" height="40"/></a>
+  <a href='https://zustand-demo.pmnd.rs/' target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/11559/zustand.png" title="Zustand" alt="Zustand" width="40" height="40" target="_blank" rel="noreferrer"/><a/>&nbsp;
     </p>
 
+### 🧪 &nbsp;Testing
+<p>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="40" height="40"/></a>
+  <a href='https://testing-library.com/docs/react-testing-library/intro/' target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" title="React Testing Library"  alt="React_Testing_Library" width="40" height="40"/><a/>&nbsp;
+  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40" /></a>&nbsp;
+  <a href="https://loki.js.org/" target="_blank" rel="noreferrer"><img src="https://loki.js.org/img/logo.svg" title="Loki" alt="Loki" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://www.cypress.io/images/layouts/navbar-brand.svg" title="Cypress" alt="Cypress" width="40" height="40" /></a>&nbsp;
+</p>
+  
+### ⚙️ &nbsp;Configuration
+<p>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40"/></a>
+  <a href='https://vitejs.dev/' target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" title="Vite"  alt="Vite" width="40" height="40"/><a/>&nbsp;
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40" /></a>&nbsp;
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40" /></a>&nbsp;
+  <a href="https://stylelint.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/10076935?s=280&v=4" title="Stylelint" alt="Stylelint" width="40" height="40" /></a>&nbsp;
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer"><img src="https://prettier.io/icon.png" title="Prettier" alt="Prettier" width="40" height="40" /></a>&nbsp;
+</p>
+
+### ✏️ &nbsp;Layout and styles
+<p>
+  <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/></a>
+  <a href='https://www.w3.org/TR/CSS/#css' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40"/><a/>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40" /></a>&nbsp;
+</p>
+ 
 ### 💾 &nbsp; Databases and Development platforms
 <p>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://static.netify.ai/logos/v/e/r/irepry/icon.png?v=1" alt="Vercel" title="Vercel" width="40" height="40"/></a>
   <a href='https://www.postgresql.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
   <a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /></a>
-    </p>
-    
-    
+</p>
+  
 ### 👨‍💻 &nbsp;Other skills
 
 <p>
