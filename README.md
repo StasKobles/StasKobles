@@ -3,7 +3,7 @@ Hi, I'm <a href="https://github.com/StasKobles">Stanislav</a> 👋
 </h1>
 
 <h3 align="center">
-Frontend Engineer (React / TypeScript)
+Senior Frontend Engineer (React / TypeScript) · Full-Stack Capable
 </h3>
 
 <p align="center">
@@ -20,18 +20,22 @@ Focused on performance, SSR, scalability and end-to-end feature ownership.
 - **Testing:** Jest, Playwright, Storybook
 - **Tooling:** Vite, Webpack, ESLint, Prettier
 - **CI / Delivery:** GitLab CI, Husky, Vercel
-- **Backend (working knowledge):** Node.js, NestJS, REST / OpenAPI
+- **Backend:** Node.js, NestJS, PostgreSQL, Prisma, REST / OpenAPI
+- **AI Tooling:** OpenCode multi-agent orchestration, spec-driven development, custom agents & skills
 - **Integrations:** Stripe, Telegram APIs, blockchain (TON)
 
 ---
 
 ### 🚀 Selected Projects
-- **Telegram Mini-App (Fullstack):**  
-  Frontend + backend (NestJS), database design, Telegram integrations, blockchain (TON), performance optimization and rendering improvements.  
-  Single developer, full ownership.
+
+- **Notion-like Collaborative App** *(Side Project, Architecture Lead)*  
+  Leading full-stack architecture for an 8-developer team — Turborepo/pnpm monorepo, Next.js, NestJS, Prisma/PostgreSQL, shared ts-rest contracts. Built around an AI-first, spec-driven workflow with multi-agent pipelines and custom agents/skills.
+
+- **Telegram Mini-App** *(Fullstack, solo)*  
+  Frontend + backend (NestJS), database design, Telegram integrations, blockchain (TON), performance optimization and rendering improvements. Full ownership.
 
 ---
 
 ### 📫 Contact
 - Telegram: <a href="https://t.me/kobles">@kobles</a>
-- CV: <a href="https://drive.google.com/file/d/12NIVlA2o5HyKwH2l4_S83EvP1iM3d1Ac/view?usp=sharing">PDF</a>
+- CV: <a href="https://drive.google.com/file/d/1r9gED22bw9jvpCP5lHGI-yrZEtiiuFj5/view?usp=sharing">PDF</a>
